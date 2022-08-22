@@ -15,18 +15,18 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 2%;
-        top: 360px;
+        top: 500px;
     }
 }
 
 @media (max-width:575px){
     #fotoperfil{
         position: absolute;
-        width: 30%;
+        width: 35%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 33%;
-        top: 360px;
+        top: 600px;
     }
 }
 
