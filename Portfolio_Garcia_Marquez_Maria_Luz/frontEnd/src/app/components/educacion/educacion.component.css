@@ -1,11 +1,11 @@
-.row{
-    padding: 20px;
+.row {
+  padding: 20px;
 }
 
-div{
-    background-color: rgb(79, 182, 191);    
+div {
+  background-color: rgb(48, 44, 44);
 }
 
-h1, h3{
-    display: inline;
+.table {
+  color: rgb(101, 127, 127);
 }
