@@ -5,7 +5,7 @@
 }
 
 .rsociales {
-  margin-right: 1em;
+  margin-right: 0.5em;
 }
 
 #logoAP {
@@ -26,13 +26,27 @@ img {
   .container {
     flex-direction: column;
   }
-  .rsociales {
+
+  img {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 0.5em;
+    width: 80px;
   }
 
-  .rsociales img {
+  button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     margin: 0.5em;
+  }
+
+  .rsociales {
+    margin-right: 0%;
+  }
+
+  #logoAP {
+    width: 200px;
   }
 }
