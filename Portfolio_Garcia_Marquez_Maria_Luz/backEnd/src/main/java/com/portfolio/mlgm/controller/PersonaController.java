@@ -25,7 +25,7 @@ public class PersonaController {
         return ipersonaService.getPersona();
     }
     
-    @GetMapping("personas/traer/perfil")
+    @GetMapping("/personas/traer/perfil")
     public Persona findPersona(){
         return ipersonaService.findPersona((long)4);
     }
